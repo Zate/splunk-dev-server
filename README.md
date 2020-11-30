@@ -13,3 +13,7 @@ Access [http://localhost:8000/](http://localhost:8000/) to open the Splunk login
 ## Stopping
 
 Run `docker-compose down` from the same folder you brought the system up on.
+
+## Modifying the Splunk Server Setup
+
+If you would like more information on the more advanced settings, configurations and changes available, please see - https://github.com/splunk/docker-splunk/blob/develop/docs/index.md and/or https://splunk.github.io/splunk-ansible/
