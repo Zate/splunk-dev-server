@@ -1,0 +1,5 @@
+SPLUNK_PASSWORD=stuff123
+MY_APP=../my-app-folder
+MY_DATA=./data
+SPLUNK_HEC_TOKEN=abcd1234
+DEFAULT_YML=./default.yml
